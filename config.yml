@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Yihao Huang
           subtitle: "I am Yihao Huang. This website hosts my research papers, books, course materials, data, curriculum vitae, and contact information."
-          imageUrl: "picture.jpeg"
+          imageUrl: "yihao_profile_pic.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -69,7 +69,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
+          url: mailto:yh26e@fsu.edu
         - name: Zoom
           url: https://www.zoom.us/my/user
         - name: Location
