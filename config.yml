@@ -79,10 +79,10 @@ params:
 
     assets:
         disableScrollBarStyle: true
-        favicon: yihao-favicon.ico
-        favicon16x16: yihao-favicon-16x16.png
-        favicon32x32: yihao-favicon-32x32.png
-        apple_touch_icon: yihao-apple-touch-icon.png
+        favicon: yihao-favicon-v2.ico
+        favicon16x16: yihao-favicon-16x16-v2.png
+        favicon32x32: yihao-favicon-32x32-v2.png
+        apple_touch_icon: yihao-apple-touch-icon-v2.png
     cover:
         hiddenInList: false
         hiddenInSingle: true
