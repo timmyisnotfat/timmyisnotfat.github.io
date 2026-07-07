@@ -64,6 +64,8 @@ params:
               url: papers/
             - name: Blog
               url: blog/
+            - name: Projects
+              url: projects/
 
     socialIcons:
         - name: Email
