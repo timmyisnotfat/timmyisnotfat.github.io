@@ -1,4 +1,6 @@
 ---
 title: "Papers"
-description: "Preprints and articles by Yihao Huang."
+description: "Papers incoming."
 ---
+
+Papers incoming.
