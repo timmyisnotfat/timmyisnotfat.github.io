@@ -2,28 +2,12 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Yihao Huang's mailing address, office address, and location."
+description: "Yihao Huang's mailing address."
 ---
 
----
-
-#### Mailing address
+#### MAILING ADDRESS
 
 Yihao Huang  
-Department  
-University  
-City, Country
-
----
-
-#### Office address
-
-Room  
-Building  
-University
-
----
-
-#### Office location
-
-Location details will be added here.
+Department of Computer Science  
+Florida State University  
+Tallahassee, Florida
