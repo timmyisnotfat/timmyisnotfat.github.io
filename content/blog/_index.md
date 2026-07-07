@@ -1,4 +1,6 @@
 ---
 title: "Blog"
-description: "Notes and updates by Yihao Huang."
+description: "Blogs incoming."
 ---
+
+Blogs incoming.
