@@ -1,4 +1,4 @@
-# Tim's Personal Website
+# Yihao Huang's Personal Website
 
 This is the source for <https://timmyisnotfat.github.io/>.
 

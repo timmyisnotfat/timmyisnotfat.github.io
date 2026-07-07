@@ -1,5 +1,5 @@
 ---
 title: "Archive"
-description: "All published pages on this website, listed in reverse-chronological order."
+description: "All the books, papers, courses, data, and notes on this website, listed in reverse-chronological order."
 layout: "archives"
 ---

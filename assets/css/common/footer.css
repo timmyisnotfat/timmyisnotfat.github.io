@@ -53,6 +53,18 @@
     color: var(--secondary);
 }
 
+@media (max-width: 480px) {
+    .footer {
+        box-sizing: border-box;
+        max-width: 100%;
+        overflow-wrap: anywhere;
+    }
+
+    .footer span:last-child {
+        white-space: normal;
+    }
+}
+
 .top-link:focus,
 #theme-toggle:focus {
     outline: 0;
