@@ -29,7 +29,7 @@ menu:
           weight: 6
 
 params:
-    description: "Personal website for Yihao Huang."
+    description: "This website hosts Yihao Huang's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Yihao Huang
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -55,8 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Yihao Huang
-          subtitle: "I am Yihao Huang. This website will host my research, projects, course materials, data, notes, curriculum vitae, and contact information."
-          imageUrl: "https://github.com/timmyisnotfat.png"
+          subtitle: "I am Yihao Huang. This website hosts my research papers, books, course materials, data, curriculum vitae, and contact information."
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -76,12 +76,28 @@ params:
               url: blog/
 
     socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:user@gmail.com
+        - name: Zoom
+          url: https://www.zoom.us/my/user
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=user
         - name: GitHub
           url: https://github.com/timmyisnotfat
+        - name: YouTube
+          url: https://www.youtube.com/@user
+        - name: Substack
+          url: https://user.substack.com
+        - name: Twitter
+          url: https://x.com/user
+        - name: Bluesky
+          url: https://bsky.app/profile/user.bsky.social
 
     assets:
         disableScrollBarStyle: true

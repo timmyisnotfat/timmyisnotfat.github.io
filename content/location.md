@@ -1,8 +1,29 @@
 ---
 title: "Location"
-date: 2026-07-07
+date: 2024-05-08
 hidemeta: true
-description: "Location and contact information for Yihao Huang."
+description: "Yihao Huang's mailing address, office address, and location."
 ---
 
-Contact details will be added here.
+---
+
+#### Mailing address
+
+Yihao Huang  
+Department  
+University  
+City, Country
+
+---
+
+#### Office address
+
+Room  
+Building  
+University
+
+---
+
+#### Office location
+
+Location details will be added here.

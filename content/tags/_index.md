@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics covered on this website."
+description: "Topics covered and methods used in my research papers and courses."
 layout: "terms"
 ---

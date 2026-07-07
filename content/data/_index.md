@@ -1,4 +1,4 @@
 ---
 title: "Data"
-description: "Datasets and research materials shared by Yihao Huang."
+description: "Datasets and replication materials by Yihao Huang."
 ---

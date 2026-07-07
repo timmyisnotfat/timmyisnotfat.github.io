@@ -1,4 +1,4 @@
 ---
 title: "Books"
-description: "Books and longer-form writing by Yihao Huang."
+description: "Books by Yihao Huang."
 ---

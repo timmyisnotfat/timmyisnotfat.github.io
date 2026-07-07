@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "Preprints, papers, and research notes by Yihao Huang."
+description: "Preprints and articles by Yihao Huang."
 ---
