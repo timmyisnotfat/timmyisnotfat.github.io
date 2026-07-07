@@ -74,8 +74,6 @@ params:
           url: https://scholar.google.com/citations?user=user
         - name: GitHub
           url: https://github.com/timmyisnotfat
-        - name: Substack
-          url: https://user.substack.com
 
     assets:
         disableScrollBarStyle: true
