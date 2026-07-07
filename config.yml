@@ -84,7 +84,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Yihao Huang"
-      icon: favicon.ico
+      icon: yihao_profile_pic.png
       iconHeight: 18
 
 markup:
