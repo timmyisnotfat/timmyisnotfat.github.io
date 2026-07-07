@@ -27,6 +27,18 @@
     border: 1px solid var(--tertiary);
 }
 
+.profile .profile_inner > span a {
+    color: var(--darkcolor);
+    font-weight: var(--semibold);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+
+.profile .profile_inner > span a:hover {
+    color: var(--primary);
+}
+
 .buttons {
     flex-wrap: wrap;
 }
